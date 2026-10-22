@@ -19,7 +19,7 @@
   },
   "report": {
     "to": "usuario.dmc@gmail.com",
-    "subject": "VANESA CHAMACHE - Comisiones Calculadas",
+    "subject": "VANESA CHAMACHE - Comisiones Calculadas CI - CD",
     "body_html": "Estimado(a), <br>Adjunto encontrarás el archivo con las comisiones calculadas.<br>Saludos."
   }
 }
