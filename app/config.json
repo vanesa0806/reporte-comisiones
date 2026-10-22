@@ -1,0 +1,25 @@
+{
+  "db": {
+    "host": "mgg.vps.webdock.cloud",
+    "port": 5432,
+    "dbname": "dmc",
+    "user": "usr_ro_dmc_rrhh_estudiantes",
+    "password": "fZp!jHt0j6%89^B4I*L*29bz4b^"
+  },
+  "smtp": {
+    "server": "mgg.vps.webdock.cloud",
+    "port": 1025,
+    "user": "",
+    "password": "",
+    "sender_email": "Python DataOps <pydataops@example.com>"
+  },
+  "paths": {
+    "csv":  "ComisionEmpleados_V1_202510.csv",
+    "excel": "ComisionesCalculadas.xlsx"
+  },
+  "report": {
+    "to": "usuario.dmc@gmail.com",
+    "subject": "VANESA CHAMACHE - Comisiones Calculadas",
+    "body_html": "Estimado(a), <br>Adjunto encontrarás el archivo con las comisiones calculadas.<br>Saludos."
+  }
+}

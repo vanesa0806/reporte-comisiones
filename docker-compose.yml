@@ -1,0 +1,7 @@
+services:
+  app:
+    build:
+      context: .
+    volumes:
+      - ./app:/app
+    container_name: dataops_app
